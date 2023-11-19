@@ -1,0 +1,13 @@
+.btn {
+    padding: 10px;
+    border-radius: 4px;
+
+    &:hover {
+        cursor: pointer;
+        opacity: 0.5;
+    }
+}
+
+.primary {
+    background-color: rgb(19, 49, 223);
+}
